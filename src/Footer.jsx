@@ -45,7 +45,7 @@ function Footer() {
         </div>
       </div>
       <div className="copy">
-        <p>Copyright © 2024 SHRINIDHI ENTERPRISES | Created by Rohan Naik</p>
+        <p>Copyright © 2024 SHREENIDHI ENTERPRISES | Created by Rohan Naik</p>
       </div>
     </div>
   );
